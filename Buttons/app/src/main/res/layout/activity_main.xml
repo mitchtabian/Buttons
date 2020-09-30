@@ -28,4 +28,13 @@
         android:layout_below="@+id/btnOne"
         android:layout_centerHorizontal="true"
         android:id="@+id/btnTwo"/>
+    
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Third Button"
+        android:id="@+id/btnThree"/>
+        android:layout_marginLeft="16dp"
+        android:layout_below="@+id/btnTwo"
+        android:textStyle="bold"/>
 </RelativeLayout>
